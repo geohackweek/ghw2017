@@ -2,7 +2,10 @@
 
 Geohackweek is a 5-day hackweek to be held at the University of Washington eScience Institute. Participants will learn about open source technologies used to analyze geospatial datasets. Mornings will consist of interactive lectures, and afternoon sessions will involve facilitated exploration of datasets and hands-on software development.
 
-## CREDITS
+## [Projects Folder](projects)
+
+
+### WEBSITE CREDITS
 
 Bootstrap
 http://getbootstrap.com/
