@@ -1,6 +1,4 @@
 ﻿### Project Title: Comparing modeled and LiDAR-derived snow water equivalent spatial datasets
-
-- Data Science Lead: Nicoleta Cristea
 	
 #### The problem
 

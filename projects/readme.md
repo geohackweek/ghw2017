@@ -6,7 +6,7 @@
 * Participants:
 
 ## [Alpine Hydrology](AlpineHydrology)
-* Project Lead: 
+* Project Lead: Nicoleta Cristea
 * Data Science Lead:
 * Participants:
 
