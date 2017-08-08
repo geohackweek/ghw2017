@@ -775,4 +775,15 @@ h1, h2, h3, h4, h5, h6 {
 .table-hover tbody tr a {
   color: #9cd3d3; }
 
+section {
+  padding-top: 50px;
+  padding-bottom: 50px; }
+
+#schedulebody {
+  background-image: url("../images/footer_lodyas.png"); }
+
+#scheduleheader {
+  padding-top: 50px;
+  padding-bottom: 50px; }
+
 /*# sourceMappingURL=style.css.map */
