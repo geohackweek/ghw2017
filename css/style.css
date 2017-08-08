@@ -769,4 +769,10 @@ h1, h2, h3, h4, h5, h6 {
 #mymap a {
   color: #404040; }
 
+.table-hover tbody tr:hover {
+  background-color: #323232; }
+
+.table-hover tbody tr a {
+  color: #9cd3d3; }
+
 /*# sourceMappingURL=style.css.map */
