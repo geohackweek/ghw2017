@@ -1,6 +1,6 @@
 # Vizhack
 
-![CC1](./img/CC1.png)
+<img src="./img/CC1.png" width=200">
 
 *Add some images*
 
