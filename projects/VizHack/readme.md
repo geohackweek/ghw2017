@@ -1,6 +1,9 @@
 # Vizhack
 
-<img src="./img/CC1.png" width=200">
+<img src="./img/CC1.png" width=300>
+<img src="./img/CC2.png" width=240>
+
+<img src="./img/CC3.png" width=540>
 
 *Add some images*
 
