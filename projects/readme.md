@@ -15,12 +15,13 @@
 * Data Science Lead: Christina Bandaragoda
 * Participants:
 
-## [Landslides](Landslides)
-* Project Lead: Recep Cakir
-* Data Science Lead: Randy LeVeque
-* Participants:
-
 ## [Glacier Mass Balance](GlacierMassbal)
 * Project Lead:
 * Data Science Lead: David Shean
 * Participants:
+
+## [Visualization](VizHack)
+* Project Leads: Tony Cannistra, Recep (Ray) Cakir
+* Data Science Lead: Randy LeVeque
+* Participants:
+
