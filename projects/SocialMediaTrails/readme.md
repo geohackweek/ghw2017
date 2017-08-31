@@ -15,10 +15,10 @@ This project will advance methods that incorporate user-generated social media (
 
 Some existing results and applications of these data:
 
-In US National Parks
+#### In US National Parks
 ![NPS](img/nps.png)
 
-In the Mt. Baker-Snoqualmie National Forest
+#### In the Mt. Baker-Snoqualmie National Forest
 ![MBS](img/mbs.png)
 
 
