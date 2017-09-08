@@ -16,15 +16,17 @@ This project will advance methods that incorporate user-generated social media (
 Some existing results and applications of these data:
 
 #### In US National Parks
-![NPS](img/nps.png)
+<img src="img/nps.png" width="500">
 
 #### In the Mt. Baker-Snoqualmie National Forest
-![MBS](img/mbs.png)
+<img src="img/mbs.png" width="400">
 
 
 ### Application Example
 
-Collect a statewide GIS database of trailhead points and trail line segments, and use them to query the global set of geotagged photographs shared publicly on Flickr. For each trail, build metrics of monthly or annual "photo-user-days" per trail and map these relative visitation rates to trails across the state. Integrate this database with data on trail attributes to build statistical models that can show how trail features (e.g. accesibility, natural features, built infrastructure) influence visitation patterns.
+Collect a statewide GIS database of trailhead points and trail line segments, and use them to query the global set of geotagged photographs shared publicly on Flickr. For each trail, build metrics of monthly or annual "photo-user-days"and map these relative visitation rates to trails across the state. 
+
+Integrate this database with trail attribute data and build models that can show how trail features (e.g. accesibility, natural features, built infrastructure) influence visitation patterns. Models can take various forms, from a simple linear regression to an agent-based model that distributes hikers across a landscape, and explores effects of management actions (e.g. road building/closure, amenities development, restoration, etc.).
 
 
 ## Data   

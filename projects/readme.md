@@ -2,7 +2,7 @@
 
 ## [Geolocated social media to measure trail use](SocialMediaTrails)
 
-Provide managers of public lands with useful data on visitation rates for hard-to-monitor areas like backcountry trails, using geolocated social media as a data source.
+Provide managers of public lands with useful data on visitation rates for hard-to-monitor areas like backcountry trails, using geolocated social media as a data source. Develop spatial models to explore visitation patterns.
 
 * Project Lead: Dave Fisher
 * Data Science Lead: 
