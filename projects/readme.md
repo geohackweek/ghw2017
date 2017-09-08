@@ -1,5 +1,13 @@
 ﻿## Geohackweek 2017 Projects
 
+## [Geolocated social media to measure trail use](SocialMediaTrails)
+
+Provide managers of public lands with useful data on visitation rates for hard-to-monitor areas like backcountry trails, using geolocated social media as a data source.
+
+* Project Lead: Dave Fisher
+* Data Science Lead: 
+* Participants:
+
 ## [SnowExHack](SnowExHack)
 
 Processing remote sensing imagery to assess how well we can measure snow water equivalence from space.
