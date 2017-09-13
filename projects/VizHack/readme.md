@@ -12,6 +12,10 @@
 - [Tony Cannistra](http://escience.washington.edu/people/tony-cannistra/), [@acannistra](https://github.com/acannistra)
 - [Ray Cakir](http://file.dnr.wa.gov/publications/ger_bio_recep_cakir.pdf)
 
+## Github repository
+
+https://github.com/geohackweek/vizhack will be used to develop and share code.  A sample notebook to create plots such as those seen above is in [notebooks/Interactive_Transects.ipynb](https://github.com/geohackweek/vizhack/blob/master/notebooks/Interactive_Transects.ipynb) 
+
 ## The problem
 
 Create a set of tools to visualize data that represents depth above topography (e.g. tsunami flow depth, landslide runout depth, glacier depth) that allows plotting both in plan view (e.g. color maps on top of topography contours, imagery, and/or maps) and in a 3D view (with topography and depth quantity plotted using different color maps), along with easy ways to explore the data (e.g. click a point to print the depth there, click two points to define a transect and have another plot pop up with the topography and depth along the contour, etc.).  Ideally this would work well both in a Jupyter notebook and also for rendering in javascript on webpages (e.g. for emergency managers or the public to view and explore the data dynamically).
