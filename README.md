@@ -1,6 +1,8 @@
-# Geohackweek 2017
+# CabledArrayHackWeek 2018
 
-Geohackweek is a 5-day hackweek to be held at the University of Washington eScience Institute. Participants will learn about open source technologies used to analyze geospatial datasets. Mornings will consist of interactive lectures, and afternoon sessions will involve facilitated exploration of datasets and hands-on software development.
+CabledArrayHackWeek (CAHW) is a 5-day hackweek to be held at the University of Washington eScience Institute. Participants will learn about open source technologies used to analyze [Ocean Observatories Initaitve (OOI)](https://oceanobservatories.org/) [Regional Cabled Array](http://www.interactiveoceans.washington.edu) datasets. Mornings will consist of interactive lectures, and afternoon sessions will involve facilitated exploration of datasets and hands-on software development.
+
+This template generously forked from [GeoHackWeek](https://github.com/geohackweek), also hosted at the University of Washington.
 
 ## [Projects Folder](projects)
 
