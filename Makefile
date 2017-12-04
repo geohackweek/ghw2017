@@ -6,5 +6,6 @@ ovid:
 
 github:
 	./publish_to_ghpages.sh
+	git push origin gh-pages
 
 PHONY: deploy
