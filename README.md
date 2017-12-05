@@ -4,10 +4,19 @@ CabledArrayHackWeek (CAHW) is a 5-day hackweek to be held at the University of W
 
 This template generously forked from [GeoHackWeek](https://github.com/geohackweek), also hosted at the University of Washington.
 
+This site is written in [Hugo](https://gohugo.io).   To run a local copy, first [install Hugo](https://gohugo.io/getting-started/installing/), then:
+
+    git clone https://github.com/oceanhackweek/cabled_array_hw2018.git
+    cd cabled_array_hw2018
+
+    git submodule init
+    hugo server
+
+
 ## [Projects Folder](projects)
 
 
-### WEBSITE CREDITS
+<!-- ### WEBSITE CREDITS
 
 Bootstrap
 http://getbootstrap.com/
@@ -47,4 +56,4 @@ Demo Images:
 http://unsplash.com
 
 jQuery Counter
-https://github.com/mhuggins/jquery-countTo
+https://github.com/mhuggins/jquery-countTo -->
