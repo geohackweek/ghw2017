@@ -1,8 +1,8 @@
-# CabledArrayHackWeek 2018
+# CabledArrayHackWorkshop 2018
 
-CabledArrayHackWeek (CAHW) is a 5-day hackweek to be held at the University of Washington eScience Institute. Participants will learn about open source technologies used to analyze [Ocean Observatories Initaitve (OOI)](https://oceanobservatories.org/) [Regional Cabled Array](http://www.interactiveoceans.washington.edu) datasets. Mornings will consist of interactive lectures, and afternoon sessions will involve facilitated exploration of datasets and hands-on software development.
+CabledArrayHackWorkshop (CAHW) is a 3-day hack event to be held at the University of Washington eScience Institute. Participants will learn about open source technologies used to analyze [Ocean Observatories Initaitve (OOI)](https://oceanobservatories.org/) [Regional Cabled Array](http://www.interactiveoceans.washington.edu) datasets. Mornings will consist of interactive lectures, and afternoon sessions will involve facilitated exploration of datasets and hands-on software development.
 
-This template generously forked from [GeoHackWeek](https://github.com/geohackweek), also hosted at the University of Washington.
+<!-- This template generously forked from [GeoHackWeek](https://github.com/geohackweek), also hosted at the University of Washington. -->
 
 This site is written in [Hugo](https://gohugo.io).   To run a local copy, first [install Hugo](https://gohugo.io/getting-started/installing/), then:
 
