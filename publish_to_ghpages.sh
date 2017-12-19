@@ -25,4 +25,4 @@ echo "Generating site"
 hugo
 
 echo "Updating gh-pages branch"
-cd $SITE_DIR && git add --all && git commit -m "Publishing to gh-pages (publish_to_ghpages.sh)" && cd ../..
+cd $SITE_DIR && git add --all && git commit -m "Publishing to gh-pages (publish_to_ghpages.sh)" && 	git push origin gh-pages 
