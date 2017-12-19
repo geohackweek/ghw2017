@@ -17,14 +17,12 @@ Centered around the Cabled Array, the CAHW will bring together the user communit
 
 This event is by invitation only due to limited space. If interested, contact us at <oceanhkw@uw.edu>
 
-<div id="footer" class="row" style="center">
+<!-- <div id="footer" class="row" style="center">
 
-<div>
-	<h3>Supported by:</h3>
+<div> -->
 
+### Supported by:
 
-		<a href="https://www.ocean.washington.edu/"><img src="images/ocean-logo-banner.jpg" height="150"  />	</a>
-
-		  <a href="http://www.apl.washington.edu/"><img src="images/apl_logo_1.jpg" height="150"  />	</a>
-     <a href="http://escience.washington.edu/"><img src="images/eScience_Logo_RGB_BLKBckgd.png" height="150"  />	</a>
-</div>
+[![UW School of Oceanography](images/ocean-logo-banner.jpg)](https://www.ocean.washington.edu/)
+[![UW Applied Physics Laboratory](images/apl_logo_1.jpg)](http://www.apl.washington.edu/)
+[![UW eScience Institute](images/eScience_Logo_RGB_BLKBckgd.png)](http://escience.washington.edu/)
