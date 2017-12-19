@@ -3,6 +3,8 @@ title: "Schedule"
 #description: "(Tenative)"
 ---
 
+(Tenative schedule, subject to change...)
+
 # Day 1
 
 Time        | Topic
