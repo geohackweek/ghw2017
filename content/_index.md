@@ -23,8 +23,8 @@ This event is by invitation only due to limited space. If interested, contact us
 	<h3>Supported by:</h3>
 
 	
-		<a href="https://www.ocean.washington.edu/"><img src="images/ocean-logo-banner.jpg" height="150"  />	</a>
+		<a href="https://www.ocean.washington.edu/"><img src="static/images/ocean-logo-banner.jpg" height="150"  />	</a>
 		 
-		  <a href="http://www.apl.washington.edu/"><img src="images/apl_logo_1.jpg" height="150"  />	</a>
-     <a href="http://escience.washington.edu/"><img src="images/eScience_Logo_RGB_BLKBckgd.png" height="150"  />	</a>
+		  <a href="http://www.apl.washington.edu/"><img src="static/images/apl_logo_1.jpg" height="150"  />	</a>
+     <a href="http://escience.washington.edu/"><img src="static/images/eScience_Logo_RGB_BLKBckgd.png" height="150"  />	</a>
 </div>
