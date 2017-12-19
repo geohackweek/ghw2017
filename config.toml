@@ -1,7 +1,7 @@
 baseURL = "https://oceanhackweek.github.io/cabled_array_hw2018/"
 #baseURL = "http://staff.washington.edu/amarburg/cabled_array_hw2018/"
 languageCode = "en-us"
-title = "Cabled Array Hack Workshop"
+title = "Cabled Array Hack Week"
 theme = "ananke"
 
 MetaDataFormat = "yaml"
@@ -18,7 +18,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  description = "Cabled Array Hack Workshop 2018"
+  description = "Cabled Array Hack Week 2018"
   facebook = ""
   #twitter = "https://twitter.com/GoHugoIO"
   instagram = ""
