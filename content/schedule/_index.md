@@ -18,7 +18,7 @@ Time        | Topic        | Instructor(s)
 15:30-16:00  | Short demo of Cabled Array data processing (seismic, hydrophone, sonar, CamHD) | Christian Baillard, Mike Harrington, Wu-Jung Lee, Aaron Marburg
 16:00-17:00  | Project idea pitch and discussion |
 17:00-18:00  | Evening break |
-18:00-       | Dinner @[Aqua Verde](https://goo.gl/maps/tc5dCvbUdER2) |
+18:00-       | Dinner @[Agua Verde](https://goo.gl/maps/tc5dCvbUdER2) |
 
 ### Day 2: Play with it
 Time        | Topic        | Instructor(s)
