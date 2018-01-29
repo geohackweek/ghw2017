@@ -15,9 +15,9 @@ Time        | Topic        | Instructor(s)
 12:30-13:00  | Lunch |
 13:00-15:00  | <li>Data Wrangling: Xarray, Pandas</li><li>Data Visualization: Matplotlib, Bokeh</li><li>M2M Real-time Plotting</li> | Mike Smith, Friedrich Knuth, Aaron Mau
 15:00-15:30  | Coffee Break |
-15:30-16:00  | Short demo of Cabled Array data processing (seismic, hydrophone, sonar, CamHD) | Christian Baillard, Mike Harrington, Wu-Jung Lee, Aaron Marburg
-16:00-17:00  | Project idea pitch and discussion |
-17:00-18:00  | Evening break |
+15:30-16:30  | Short demo of Cabled Array data processing (seismic, hydrophone, sonar, CamHD) | Christian Baillard, Mike Harrington, Wu-Jung Lee, Aaron Marburg
+16:30-17:30  | Project idea pitch and discussion |
+17:30-18:00  | Evening break |
 18:00-       | Dinner @[Agua Verde](https://goo.gl/maps/tc5dCvbUdER2) |
 
 ### Day 2: Play with it
