@@ -7,9 +7,7 @@ CabledArrayHackWorkshop (CAHW) is a 3-day hack event to be held at the Universit
 
 ## Web Site
 
-This site stores the source for the Cabled Array Hack Week [website](https://oceanhackweek.github.io/cabled_array_hw2018/).
-
-This site is written in [Hugo](https://gohugo.io).
+This repo stores the source for the Cabled Array Hack Week [website](https://oceanhackweek.github.io/cabled_array_hw2018/), which is written in [Hugo](https://gohugo.io).
 
  * The `gh-pages` branch is the website as published.
  * The `master` branch is the Hugo source for the current website.
