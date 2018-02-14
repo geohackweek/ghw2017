@@ -1,11 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
-.idea/
-.DS_Store
-sass
-.vs/
-Geohackweek2017-adf8548865eb.json
-.ipynb_checkpoints/
-*.csv
-*.xlsx
-schedule.md
-.sass-cache
+
+.idea
+.ipynb_checkpoints
+
+# Ignore credential file
+# db.json
