@@ -1,48 +1,7 @@
-# Geohackweek 2017
+# Geohackweek Tutorial Contents Repository
 
-Geohackweek is a 5-day hackweek to be held at the University of Washington eScience Institute. Participants will learn about open source technologies used to analyze geospatial datasets. Mornings will consist of interactive lectures, and afternoon sessions will involve facilitated exploration of datasets and hands-on software development.
+This repository contains most of the content for the geohackweek tutorials.
 
-## [Projects Folder](projects)
+See the [geohackweek wiki](https://github.com/geohackweek/ghw2017/wiki/Running-Jupyter-Notebooks-Locally) for instructions on running these tutorials.
 
-
-### WEBSITE CREDITS
-
-Bootstrap
-http://getbootstrap.com/
-
-jQuery
-http://jquery.com/
-
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
-
-Modernizr
-http://modernizr.com/
-
-Google Fonts
-https://www.google.com/fonts/
-
-Icomoon
-https://icomoon.io/app/
-
-Simple Line Icons
-https://github.com/thesabbir/simple-line-icons
-
-Respond JS
-https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
-
-animate.css
-http://daneden.me/animate
-
-jQuery Waypoint
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
-
-
-Stellar Parallax
-http://markdalgleish.com/projects/stellar.js/
-
-Demo Images:
-http://unsplash.com
-
-jQuery Counter
-https://github.com/mhuggins/jquery-countTo
+Unfortunately some notebooks won't run as is, because they use large data files that are not available on this repository, they connect to a PostGIS database that for security is not reachable outside UW domains (such as the [Vector Tools tutorial](https://geohackweek.github.io/vector/)), or other technical reasons like that. But you can still go over the code and outputs in the notebooks, and if you're really interested you can contact the author directly.
