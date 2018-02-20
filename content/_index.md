@@ -13,7 +13,9 @@ The “hackweek” model has emerged within the data science community as a powe
 
 ### What will we do in CAHW?
 
-Centered around the Cabled Array, the CAHW will bring together the user community and the OOI infrastructure and cyberinfrastructure teams, to explore and adapt the hackweek model to ocean-oriented research through both tutorials and hands-on project sessions. In tutorial sessions, we will learn data science tools, cloud computing, and data visualization, in addition to the recently expanded software capability to directly interact with the real-time Cabled Array data stream. During project sessions, we will immediately put these skills to use by creating new tools for exploring, processing and visualizing Cabled Array data, in particular those with complex temporal-spatial coupling patterns and/or of high data volume (e.g., profiler, sonar, hydrophone, etc.).
+Centered around the [Cabled Array](http://oceanobservatories.org/array/cabled-array/), the CAHW will bring together the user community and the OOI infrastructure and cyberinfrastructure teams, to explore and adapt the hackweek model to ocean-oriented research through both tutorials and hands-on project sessions. In tutorial sessions, we will learn data science tools, cloud computing, and data visualization, in addition to the recently expanded software capability to directly interact with the real-time Cabled Array data stream. During project sessions, we will immediately put these skills to use by creating new tools for exploring, processing and visualizing Cabled Array data, in particular those with complex temporal-spatial coupling patterns and/or of high data volume (e.g., profiler, sonar, hydrophone, etc.).
+
+For additional information on the cabled array, see the [Cabled Array](http://oceanobservatories.org/array/cabled-array/) site from the Ocean Observatories Initiative, and the [Interactive Oceans](http://www.interactiveoceans.washington.edu) site from the UW School of Oceanography
 
 This event is by invitation only due to limited space. If interested, contact us at <oceanhkw@uw.edu>
 
@@ -24,5 +26,5 @@ This event is by invitation only due to limited space. If interested, contact us
 ### Supported by:
 
 [![UW School of Oceanography](images/ocean-logo-banner.jpg)](https://www.ocean.washington.edu/)
-[![UW Applied Physics Laboratory](images/apl_logo_1.jpg)](http://www.apl.washington.edu/)
+[![UW Applied Physics Laboratory](images/apl-uw_stacked_black.png)](http://www.apl.washington.edu/)
 [![UW eScience Institute](images/eScience_Logo_RGB_BLKBckgd.png)](http://escience.washington.edu/)
