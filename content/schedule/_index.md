@@ -6,10 +6,11 @@ title: "Schedule"
 ### Day 1: Get connected to the data stream
 Time         | Topic                                            | Instructor(s)
 ------------ | ------------------------------------------------ | -----------------------
-8:30&nbsp;-&nbsp;9:30    | Overview of Cabled Array and Hack Week           | Rob&nbsp;Fatland, <br />Deb&nbsp;Kelley
+8:30&nbsp;-&nbsp;9:30    | Overview of OOI, Cabled Array and Hack Week           | Rob&nbsp;Fatland, <br />Deb&nbsp;Kelley, <br/>Mike&nbsp;Vardaro
+  | Introductions  |
 9:30&nbsp;-&nbsp;11:00   | Data Science Tools: Git, Conda, Jupyter Notebook | Amanda&nbsp;Tan, <br />Valentina&nbsp;Staneva
 11:00&nbsp;-&nbsp;11:30  | Coffee break                                     |
-11:30&nbsp;-&nbsp;12:30  | <li>Finding OOI Data</li>  <li>Machine-to-machine (M2M) Data Access</li> | Mike Vardaro, <br />Friedrich&nbsp;Knuth
+11:30&nbsp;-&nbsp;12:30  | <li>Finding OOI Data</li>  <li>Machine-to-machine (M2M) Data Access</li> | <br />Friedrich&nbsp;Knuth
 12:30&nbsp;-&nbsp;13:00  | Lunch                                            |
 13:00&nbsp;-&nbsp;15:00  | <li>M2M Real-time Plotting</li><li>Data Wrangling: Xarray, Pandas</li><li>Data Visualization: Matplotlib, Bokeh</li> | Friedrich&nbsp;Knuth
 15:00&nbsp;-&nbsp;15:30  | Coffee Break                                     |
