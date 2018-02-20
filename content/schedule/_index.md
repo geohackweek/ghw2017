@@ -10,7 +10,7 @@ Time         | Topic                                            | Instructor(s)
   | Introductions  |
 9:30&nbsp;-&nbsp;11:00   | Data Science Tools: Git, Conda, Jupyter Notebook | Amanda&nbsp;Tan, <br />Valentina&nbsp;Staneva
 11:00&nbsp;-&nbsp;11:30  | Coffee break                                     |
-11:30&nbsp;-&nbsp;12:30  | <li>Finding OOI Data</li>  <li>Machine-to-machine (M2M) Data Access</li> | <br />Friedrich&nbsp;Knuth
+11:30&nbsp;-&nbsp;12:30  | <li>Finding OOI Data</li>  <li>Machine-to-machine (M2M) Data Access</li> | Friedrich&nbsp;Knuth
 12:30&nbsp;-&nbsp;13:00  | Lunch                                            |
 13:00&nbsp;-&nbsp;15:00  | <li>M2M Real-time Plotting</li><li>Data Wrangling: Xarray, Pandas</li><li>Data Visualization: Matplotlib, Bokeh</li> | Friedrich&nbsp;Knuth
 15:00&nbsp;-&nbsp;15:30  | Coffee Break                                     |
