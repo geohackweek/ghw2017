@@ -22,7 +22,7 @@ Time         | Topic                                            | Instructor(s)
 ### Day 2: Play with it
 Time         | Topic                                            | Instructor(s)
 ------------ | ------------------------------------------------ | -----------------------
-9:00&nbsp;-&nbsp;10:00   | Data Visualization: overview of choices          | Jake&nbsp;VanderPlas
+9:15&nbsp;-&nbsp;10:00   | Data Visualization: overview of choices          | Jake&nbsp;VanderPlas
 10:00&nbsp;-&nbsp;11:00  | Hacking                                          |
 11:00&nbsp;-&nbsp;11:30  | Coffee break                                     |
 11:30&nbsp;-&nbsp;12:30  | Hacking                                          |
