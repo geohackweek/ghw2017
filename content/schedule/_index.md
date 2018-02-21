@@ -38,7 +38,7 @@ Time         | Topic                                            | Instructor(s)
 ------------ | ------------------------------------------------ | -----------------------
 9:00&nbsp;-&nbsp;10:00   | Cloud Computing                                  | Amanda&nbsp;Lehr, Rob&nbsp;Fatland
 10:00&nbsp;-&nbsp;10:15  | Coffee break                                     |
-10:15&nbsp;-&nbsp;11:15  | Graphana                                         | Vaughn&nbsp;Iverson
+10:15&nbsp;-&nbsp;11:15  | Integrated Analysis of Data from Automated Instruments.  A case study in re-purposing modern devops tools for realtime science                                        | Vaughn&nbsp;Iverson
 11:15&nbsp;-&nbsp;12:30  | Hacking                                          |
 12:30&nbsp;-&nbsp;13:30  | Lunch                                            |
 13:30&nbsp;-&nbsp;15:00  | More Hacking                                     |
