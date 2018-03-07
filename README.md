@@ -20,6 +20,7 @@ To create and view a local copy, first
     cd cabled_array_hw2018
 
     git submodule init       # Necessary to get the "ananke" theme
+    git submodule update     # Get a local copy of the ananke theme
     hugo server
 
 
